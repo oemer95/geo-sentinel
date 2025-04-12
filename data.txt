@@ -1,0 +1,6 @@
+aoi: [8.68, 50.11, 8.70, 50.13]  # Frankfurt am Main (example bounding box)
+time_range: ['2024-01-01', '2024-12-31']
+bands: ['B04', 'B08']  # Red and NIR for NDVI
+resolution: 10
+client_id: 'your-client-id'
+client_secret: 'your-client-secret'
