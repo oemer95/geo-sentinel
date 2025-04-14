@@ -25,7 +25,7 @@ def main():
     print("Visualizing results...")
     plot_ndvi_series(ndvi_series, anomalies)
 
-    print("Done.")
+    print("Done")
 
 if __name__ == "__main__":
     main()
