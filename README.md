@@ -11,7 +11,6 @@ GeoSentinel is a Python-based project designed to detect and visualize anomalies
 - Visualize time series and anomaly maps
 
 ---
-
 ## Project Structure
 ```
 GeoSentinel/
